@@ -1,4 +1,4 @@
-**[Welcome to Sumit Malik's DevOps Portfolio!](https://sumitrmalik.github.io/sumitmalik.io/)**
+**[Welcome to Sumit Malik's DevOps Portfolio!](https://sumitrmalik.github.io/sumitrmalik.io/)**
 
 **Hi there!** This repository showcases my expertise in DevOps engineering, with a focus on automating and streamlining software development and delivery processes.
 
