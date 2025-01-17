@@ -38,7 +38,7 @@ While this repository primarily serves as a showcase, I welcome feedback and con
 **Connect with Me:**
 
 * [LinkedIn](https://www.linkedin.com/in/sumit-r-malik/)
-* [Email](malik.r.sumit@gmail.com)
+* [Email](mailto:malik.r.sumit@gmail.com)
 
 **Let's build something great together!**
 
